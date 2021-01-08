@@ -17,3 +17,6 @@ This is a presentation of the design made for the ENPH253 competition also known
 This was one of the final lab presentations I gave on my COOP term. It discusses the process and justifcation for the development of two parameters I developed to help charactise the level of disease present in lung samples from CT scans. This work is being incorperated into larger manuscripts on COPD and IPF lung disease which we hope to publish in the next couple of years. 
 
 
+## Cross sections manuscript contribution 
+This document is an example of one of the figures and text I created for the manuscript. It is still in rough form, to be integrated into a larger document.
+It explains how cross sections of lung airways can be obtained from a mask of the original CT scan. Considerable care was taken into how wide a range should be used to determine the local direction of airways, which is discussed in the document. 
