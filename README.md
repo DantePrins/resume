@@ -1,4 +1,7 @@
 
+## 2020 UBC Water Polo Covid-19 Safety Plan
+This safety plan was drafted for the fall 2020 between myself and the president of Vancouver Seniors Water Polo. This document integrated safety guidelines provided by the provincial goverment as well as the aquatic facility with the unique sport of water polo in mind. 
+
 ## ASA2.0.0 user manual
 I spent about 3 months of my COOP implementing features and improving this ImageJ plugin which is used as the primary analysis program in our lab. I reworked much of the program behind the hood, about ~50% new code, along with numerous new features I was directed to add by researchers in the lab. 
 
