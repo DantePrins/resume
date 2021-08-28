@@ -15,7 +15,7 @@ In particular, I was responsible for mechanical prototyping, kinematic calculati
 ### Robot Summer Recap
 This is a presentation of the design made for the ENPH253 competition also known as Robot Summer. My robot was designed with the limitations of household and store bought materials and tools. Our team scored 7th of 16 teams in the competition, with my robot being the highest scoring copy built by each of our teammates.
 
-## Research Software Engineer at the Centre for Heart Lung Innovation
+## Software Engineer at the Centre for Heart Lung Innovation
 
 ### Cross sections manuscript contribution 
 This document is an example of one of the figures and text I created for the manuscript. It is still in rough form, to be integrated into a larger document.
