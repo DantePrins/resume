@@ -1,4 +1,4 @@
-## Undergrad Researcher at the Stewart Blusson Quantum Matter Institute
+## Undergraduate Researcher at the Stewart Blusson Quantum Matter Institute
 
 ### Fe3GeTe2 decapping final talk slides
 These are the slides for the talk I gave to a general audience at the SBQMI as a summary of my summer work. The results and data here are more engaging for audiences without experience looking at RHEED images and gives an introduction to the project. These slides are meant to accompany my talk, but should still be meaningful alone.
