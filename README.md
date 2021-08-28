@@ -1,7 +1,6 @@
 ## SBQMI
 ### Fe3GeTe2 decapping final talk slides
 These are the slides for the talk I gave to a general audience at the SBQMI as a summary of my summer work. The results and data here are more engaging for audiences without experience looking at RHEED images and gives an introduction to the project. These slides are meant to accompany my talk, but should still be meaningful alone.
-
 ### Fe3GeTe2 decapping trials
 These slides present data, primarily RHEED images paired with treatments descriptions, of each stage of all the trials in this project. Additional data such as XRD scans and AFM images are also included when collected. Conclusions for the project are included on the final five pages (if you can get to them).  This is not quite a logbook, with minor details such as substrate treatment conditions and cell temperatures being ommited, but presents a timeline and results for each of the trials of the project. 
 
