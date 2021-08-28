@@ -8,12 +8,12 @@ These slides present data, primarily RHEED images paired with treatments descrip
 
 ## ENPH253 Autonomous Can Collection Robot
 
+### Robot Summer Recap
+This is a presentation of the design made for the ENPH253 competition also known as Robot Summer. My robot was designed with the limitations of household and store bought materials and tools. Our team scored 7th of 16 teams in the competition, with my robot being the highest scoring copy built by each of our teammates.
+
 ### Robot Proposal
 This proposal was put together by myself and my two teamates before we each began serious construction of our robot. 
 In particular, I was responsible for mechanical prototyping, kinematic calculations for things like turning, and PCB design. 
-
-### Robot Summer Recap
-This is a presentation of the design made for the ENPH253 competition also known as Robot Summer. My robot was designed with the limitations of household and store bought materials and tools. Our team scored 7th of 16 teams in the competition, with my robot being the highest scoring copy built by each of our teammates.
 
 ## Software Engineer at the Centre for Heart Lung Innovation
 
