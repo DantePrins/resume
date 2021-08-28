@@ -6,14 +6,6 @@ These are the slides for the talk I gave to a general audience at the SBQMI as a
 ### Fe3GeTe2 decapping trials
 These slides present data, primarily RHEED images paired with treatments descriptions, of each stage of all the trials in this project. Additional data such as XRD scans and AFM images are also included when collected. Conclusions for the project are included on the final five pages (if you can get to them).  This is not quite a logbook, with minor details such as substrate treatment conditions and cell temperatures being ommited, but presents a timeline and results for each of the trials of the project. 
 
-## ENPH253 Autonomous Can Collection Robot
-
-### Robot Summer Recap
-This is a presentation of my design made for the ENPH253 robotics competition. The robot was designed with the limitations of household and store bought materials and tools. Our team scored 7th of 16 teams in the competition, with my robot being the highest scoring copy built by each of our teammates.
-
-### Robot Proposal
-This proposal was put together by myself and my two teamates before we each began serious construction of our robot. 
-In particular, I was responsible for mechanical prototyping, kinematic calculations for things like turning, and PCB design. 
 
 ## Software Engineer at the Centre for Heart Lung Innovation
 
@@ -30,6 +22,17 @@ I spent about three months of my time at HLI implementing features and improving
 ### Pulmonary Fibrosis Abstract
 This abstract is for a manuscript I contributed to both the research and authoring of on during my time at The Centre For Heart Lung Innovation in the Hogg lab. 
 The manuscript was subbmitted and accepted by the American Thoracic Society for review and publication.
+
+
+## ENPH253 Autonomous Can Collection Robot
+
+### Robot Summer Recap
+This is a presentation of my design made for the ENPH253 robotics competition. The robot was designed with the limitations of household and store bought materials and tools. Our team scored 7th of 16 teams in the competition, with my robot being the highest scoring copy built by each of our teammates.
+
+### Robot Proposal
+This proposal was put together by myself and my two teamates before we each began serious construction of our robot. 
+In particular, I was responsible for mechanical prototyping, kinematic calculations for things like turning, and PCB design. 
+
 
 ## President of the UBC Water Polo Club
 
