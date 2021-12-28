@@ -1,9 +1,10 @@
 ## Research Assistant in the Neutral Atom Trap group at TRIUMF
 
+### TRINAT report
+This report was written at the end of the term as a summary of the project, a presentation of the final data, and what further should be done in the lab. It was sent to the lab group and reviewed with their feedback. In future this document will be referenced by members of the lab group, particularly future students regarding the finding of this project and a collection of some of my knowledge from the term. 
 
-
-
-
+### TRIUMF presentation
+I gave this presentation to a room of undergrads along with my lab group but the intended audience for the tone is the former. This was given about two weeks before the end of the term so not everything on the report is included and I took time to explain more basics that were omitted from the report. 
 
 ## Undergraduate Researcher at the Stewart Blusson Quantum Matter Institute
 
