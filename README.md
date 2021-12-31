@@ -17,20 +17,14 @@ These slides present data, primarily RHEED images paired with treatments descrip
 
 ## Software Engineer at the Centre for Heart Lung Innovation
 
-### Cross sections manuscript contribution 
-This document is an example of one of the figures and text I created for the manuscript. It is still in rough form, to be integrated into a larger document.
-It explains how cross sections of lung airways can be obtained from a mask of the original CT scan. Considerable care was taken into how wide a range should be used to determine the local direction of airways, which is discussed in the document. 
+### Small Airway Reduction and Fibrosis Is an Early Pathologic Feature of Idiopathic Pulmonary Fibrosis published in ATS
+I worked on this publication during and after my time at HLI before it being published in 2021. I was the primary author for online suppliments 2 and 3 as the creator of the roughness and curviness metrics and main software engineer which these sections discussion.
 
 ### Roughness + Curviness Lab Presentation 
 This was one of the final lab presentations I gave during my four months at HLI. It discusses the process and justifcation for the development of two parameters I developed to help charactise the level of disease present in lung samples from CT scans. This work is being incorperated into larger manuscripts on COPD and IPF lung disease which we hope to publish in the next couple of years. 
 
 ### ASA2.0.0 user manual
 I spent about three months of my time at HLI implementing features and improving this ImageJ plugin which is used as the primary analysis program in the lab. I reworked much of the program behind the hood, about ~50% new code, along with numerous new features I was directed to add by researchers in the lab. 
-
-### Pulmonary Fibrosis Abstract
-This abstract is for a manuscript I contributed to both the research and authoring of on during my time at The Centre For Heart Lung Innovation in the Hogg lab. 
-The manuscript was subbmitted and accepted by the American Thoracic Society for review and publication.
-
 
 ## ENPH253 Autonomous Can Collection Robot
 
