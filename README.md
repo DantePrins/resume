@@ -40,3 +40,7 @@ In particular, I was responsible for mechanical prototyping, kinematic calculati
 
 ### 2020 UBC Water Polo Covid-19 Safety Plan
 This safety plan was drafted for the fall 2020 between myself and the president of Vancouver Seniors Water Polo. This document integrated safety guidelines provided by the provincial goverment as well as the aquatic facility with the unique sport of water polo in mind. 
+
+## Force sensing model
+
+### This report summarizes the methodology and uses of this coded 2D force sensor model. 
