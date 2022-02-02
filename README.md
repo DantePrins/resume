@@ -26,6 +26,11 @@ This was one of the final lab presentations I gave during my four months at HLI.
 ### ASA2.0.0 user manual
 I spent about three months of my time at HLI implementing features and improving this ImageJ plugin which is used as the primary analysis program in the lab. I reworked much of the program behind the hood, about ~50% new code, along with numerous new features I was directed to add by researchers in the lab. 
 
+## President of the UBC Water Polo Club
+
+### 2020 UBC Water Polo Covid-19 Safety Plan
+This safety plan was drafted for the fall 2020 between myself and the president of Vancouver Seniors Water Polo. This document integrated safety guidelines provided by the provincial goverment as well as the aquatic facility with the unique sport of water polo in mind. 
+
 ## ENPH253 Autonomous Can Collection Robot
 
 ### Robot Summer Recap
@@ -35,12 +40,8 @@ This is a presentation of my design made for the ENPH253 robotics competition. T
 This proposal was put together by myself and my two teamates before we each began serious construction of our robot. 
 In particular, I was responsible for mechanical prototyping, kinematic calculations for things like turning, and PCB design. 
 
-
-## President of the UBC Water Polo Club
-
-### 2020 UBC Water Polo Covid-19 Safety Plan
-This safety plan was drafted for the fall 2020 between myself and the president of Vancouver Seniors Water Polo. This document integrated safety guidelines provided by the provincial goverment as well as the aquatic facility with the unique sport of water polo in mind. 
-
-## Force sensing model
+## Force sensor model
 
 ### This report summarizes the methodology and uses of this coded 2D force sensor model. 
+
+
