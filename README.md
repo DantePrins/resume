@@ -31,6 +31,12 @@ I spent about three months of my time at HLI implementing features and improving
 ### 2020 UBC Water Polo Covid-19 Safety Plan
 This safety plan was drafted for the fall 2020 between myself and the president of Vancouver Seniors Water Polo. This document integrated safety guidelines provided by the provincial goverment as well as the aquatic facility with the unique sport of water polo in mind. 
 
+## General Fusion X-Ray Source
+
+##X-Ray meeting slides
+
+Sample bi-weekly meeting slides.
+
 ## ENPH253 Autonomous Can Collection Robot
 
 ### Robot Summer Recap
