@@ -40,7 +40,7 @@ Sample bi-weekly meeting slides.
 ## ML Actuation Platform
 
 ## Prototype demo 
-
+https://youtu.be/fxjh54n1zP8
 
 ## RL Marble Maze Final Report.
 
