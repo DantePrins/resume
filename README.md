@@ -37,6 +37,17 @@ This safety plan was drafted for the fall 2020 between myself and the president 
 
 Sample bi-weekly meeting slides.
 
+## ML Actuation Platform
+
+##RL Marble Maze Final Report.
+
+Project end report
+
+## Force sensor model
+
+### This report summarizes the methodology and uses of this coded 2D force sensor model. 
+
+
 ## ENPH253 Autonomous Can Collection Robot
 
 ### Robot Summer Recap
@@ -45,9 +56,5 @@ This is a presentation of my design made for the ENPH253 robotics competition. T
 ### Robot Proposal
 This proposal was put together by myself and my two teamates before we each began serious construction of our robot. 
 In particular, I was responsible for mechanical prototyping, kinematic calculations for things like turning, and PCB design. 
-
-## Force sensor model
-
-### This report summarizes the methodology and uses of this coded 2D force sensor model. 
 
 
